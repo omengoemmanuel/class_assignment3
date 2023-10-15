@@ -1,0 +1,68 @@
+
+.header{
+    height: 100vh;
+}
+.navbar1
+          {
+   box-shadow: 0 5px 10px #efefef;
+          }
+.nav3
+{
+    list-style: none;
+    padding: 0px;
+    display: flex;
+    }
+.nav3
+{
+    margin-left: 100px;
+}
+.cala
+{
+
+}
+.nav-link
+{
+    text-transform: uppercase;
+
+}
+.carousel-item
+{
+    width: 500px;
+    height: 560px;
+}
+.wel
+{
+    width: 650px;
+    height: 560px;
+}
+.carousel-inner
+{
+    display: flex;
+    align-content: center;
+    align-items: center;
+    width: auto;
+    height: auto;
+    overflow: hidden;
+}
+.lan
+{
+    padding: 100px;
+}
+.container
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+}
+.column
+{
+    width: 48%;
+    padding: 20px;
+}
+.mac
+{
+    background: darkgray;
+    color: black;
+    font-size: 25px;
+    font-family:"Times New Roman";
+}
